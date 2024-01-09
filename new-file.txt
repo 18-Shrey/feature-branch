@@ -3,3 +3,4 @@ I am Shrey Patel
 =======
 This is new file in main directory
 >>>>>>> bug-fix
+Hello
