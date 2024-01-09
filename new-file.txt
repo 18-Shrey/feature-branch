@@ -3,4 +3,8 @@ I am Shrey Patel
 =======
 This is new file in main directory
 >>>>>>> bug-fix
+<<<<<<< HEAD
 How r u ?
+=======
+Hello
+>>>>>>> conflict-branch
